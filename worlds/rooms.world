@@ -22,5 +22,5 @@ bitmap "../maps/cumberland.pgm"
 )
 
 
-include "../robot/simple_robot.inc"
-simple_robot (pose [ 11.1 9.2 0.000 90.000 ] name "robot")
+include "../robotstruct/robot_group11.inc"
+robot_group11 (pose [ 11.1 9.2 0.000 90.000 ] name "robot")
